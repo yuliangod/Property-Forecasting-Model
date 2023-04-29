@@ -1,5 +1,13 @@
 # Property Forecasting Model for The Right Move, as part of SUTD's Data and Business Analytics mod
 
+The full presentations, report, and poster can be found here:
+poster: ![Team 6 Poster (1)](https://user-images.githubusercontent.com/62754885/235295666-df7add55-816c-4741-841c-ab40e03857a3.png)
+report: [Final report (1).pdf](https://github.com/yuliangod/Property-Prediction-Model/files/11358808/Final.report.1.pdf)
+
+mid-term presentation: [CS01 team 6 mideterm presentation (1).pdf](https://github.com/yuliangod/Property-Prediction-Model/files/11358798/CS01.team.6.mideterm.presentation.1.pdf)
+finals presentation: [2. final presentation [19 Apr].pdf](https://github.com/yuliangod/Property-Prediction-Model/files/11358801/2.final.presentation.19.Apr.pdf)
+
+
 ### Project Description 
 Property buyers often have to use various factors to determine which property to buy/invest in. There is also no certainty if the price of the property will increase in the next few years. 
 
