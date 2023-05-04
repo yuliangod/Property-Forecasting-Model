@@ -40,7 +40,8 @@ UI.xlsx: simple visualisation of results for easy comparison of properties
 schools in the region.
 * Latest average PSF assumed for quarters without
 transactions.
-* Average PPI growth rate is assumed constant for
+* Average PPI growth rate is assumed constant when forecasting
+* Non-drastic change in behaviour by seller
 
 ### Limitations
 * Model specific to District 15 & 99-year leasehold.
